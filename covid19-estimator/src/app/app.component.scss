@@ -16,3 +16,15 @@ form {
 button.btn.btn-outline-dark.btn-lg {
   box-shadow: 2px 2px 0 1px #00002638;
 }
+
+.impactResult {
+  background: green;
+    padding: 10px;
+    border-radius: 6px;
+
+    pre {
+      margin-top: 1rem;
+      color: #fff !important;
+     }
+}
+
