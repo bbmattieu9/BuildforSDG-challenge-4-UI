@@ -46,6 +46,7 @@ export class AppComponent implements OnInit {
 
   onCalculateImpact() {
 
+    // check if form is not valid
     if (!this.covid19EstimatorForm) {
       return false;
     }
