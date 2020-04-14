@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  FRONTEND: 'https://nifty-bhabha-b1c4b3.netlify.com/'
 };
 
 /*
