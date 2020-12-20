@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  FRONTEND: 'https://nifty-bhabha-b1c4b3.netlify.com/'
 };
